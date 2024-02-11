@@ -2,11 +2,23 @@
     "data": [
         {
             "Key": "bgm",
-            "Value": 1.0
+            "Value": 0.6436711549758911
         },
         {
             "Key": "sfx",
             "Value": 1.0
+        },
+        {
+            "Key": "sensitivity",
+            "Value": 10.0
+        },
+        {
+            "Key": "bgm_muted",
+            "Value": 1.0
+        },
+        {
+            "Key": "sfx_muted",
+            "Value": 0.0
         }
     ]
 }
