@@ -19,6 +19,10 @@
         {
             "Key": "sfx_muted",
             "Value": 0.0
+        },
+        {
+            "Key": "notify_matched",
+            "Value": 1.0
         }
     ]
 }
