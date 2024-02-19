@@ -5,24 +5,32 @@
             "Value": 1.0
         },
         {
-            "Key": "sfx",
-            "Value": 1.0
-        },
-        {
-            "Key": "sensitivity",
-            "Value": 10.0
-        },
-        {
             "Key": "bgm_muted",
             "Value": 0.0
+        },
+        {
+            "Key": "sfx",
+            "Value": 1.0
         },
         {
             "Key": "sfx_muted",
             "Value": 0.0
         },
         {
+            "Key": "sensitivity",
+            "Value": 10.0
+        },
+        {
             "Key": "notify_matched",
             "Value": 1.0
+        },
+        {
+            "Key": "resolution_width",
+            "Value": 1920.0
+        },
+        {
+            "Key": "resolution_height",
+            "Value": 1080.0
         }
     ]
 }
