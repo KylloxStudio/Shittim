@@ -31,6 +31,10 @@
         {
             "Key": "resolution_height",
             "Value": 1080.0
+        },
+        {
+            "Key": "fixed_resolution",
+            "Value": 0.0
         }
     ]
 }
