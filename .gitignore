@@ -44,4 +44,6 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+bfg-1.14.0.jar
 /Shittim_BackUpThisFolder_ButDontShipItWithYourGame/
+/.git.bfg-report/
