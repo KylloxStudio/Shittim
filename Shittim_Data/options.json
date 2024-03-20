@@ -26,11 +26,11 @@
         },
         {
             "Key": "resolution_width",
-            "Value": 640.0
+            "Value": 1920.0
         },
         {
             "Key": "resolution_height",
-            "Value": 360.0
+            "Value": 1080.0
         },
         {
             "Key": "fixed_resolution",
