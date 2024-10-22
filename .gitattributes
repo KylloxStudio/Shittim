@@ -1,3 +1,0 @@
-*.so filter=lfs diff=lfs merge=lfs -text
-*.assets filter=lfs diff=lfs merge=lfs -text
-*.resS filter=lfs diff=lfs merge=lfs -text
